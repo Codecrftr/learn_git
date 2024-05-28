@@ -1,3 +1,4 @@
 let a =10;
 let b = 10;
- console.log(a+b);
+let sum = a+b;
+ console.log("sum of a+b is =", sum);
